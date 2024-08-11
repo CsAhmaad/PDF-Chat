@@ -1,0 +1,12 @@
+langchain==0.0.310
+python-dotenv==1.0.0
+streamlit==1.24.0
+tiktoken==0.5.0
+faiss-cpu==1.8.0
+protobuf==4.24.0
+langchain_experimental==0.0.64
+mysql-connector-python==8.0.34
+pymysql==1.1.1
+sentence-transformers==2.2.2
+chromadb==0.4.4
+
